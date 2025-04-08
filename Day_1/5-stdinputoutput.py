@@ -1,0 +1,5 @@
+a = int(input("Enter first value: "))
+b = int(input("Enter second value : "))
+print("Result: ",a + b)
+print("Addition of {} and {} : {}".format(a, b,a+b))
+print(f'Addition {a} and {b} is : {a+b}' )

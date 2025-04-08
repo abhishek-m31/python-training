@@ -1,0 +1,16 @@
+[{
+    "name" : "Surabhi",
+     "age" : 30,
+     "Dept" : "IT",
+     "Skills" : [
+     {
+       "Title" : "Java",
+       "Exp" : 7
+     },
+     {
+       "Title" : "JavaScript",
+       "Exp" : 5
+     }
+     ]
+ }
+]
